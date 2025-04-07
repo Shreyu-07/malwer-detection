@@ -242,17 +242,6 @@ The bar chart below displays the average training and validation scores along wi
 By analyzing these scores and visualizations, we gain insight into the model's learning behavior and can make informed decisions for further improvements.
 
 
-## Contributors ✨
-
-<table>
-  <tr>
-    
-<td align="center"><a href="https://github.com/latiko"><img src="https://avatars.githubusercontent.com/latiko?v=4" width="100px;" alt=""/><br /><sub><b>latiko</b></sub></a><br />💻</td>
-<td align="center"><a href="https://github.com/0xfke"><img src="https://avatars.githubusercontent.com/0xfke?v=4" width="100px;" alt=""/><br /><sub><b>0xfke</b></sub></a><br />💻</td>
-   
-  </tr>
-</table>
-
 
 ## 🔮 Future Work
 
